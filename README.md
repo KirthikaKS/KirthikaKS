@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kirthika Kulandaivel Senthilkumar  
 
-**Data Analyst | Storyteller with Data | Problem Solver**  
+**Data Analyst | I See Data Differently. I See Stories !**  
 
 I specialize in transforming raw data into strategic insights that fuel impactful decision-making. With a Master's degree in Information Technology and Management from **UT Dallas**, I combine analytical precision with creative storytelling to solve business challenges.  
 
