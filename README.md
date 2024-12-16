@@ -47,7 +47,7 @@ I specialize in transforming raw data into strategic insights that fuel impactfu
 If you're looking for a data analyst who blends technical expertise with business understanding, let's connect:  
 
 - 🌐 **Portfolio**: [https://www.datascienceportfol.io/kskirthika26]
-- 💼 **LinkedIn**: [linkedin.com/in/kirthika-kulandaivel-senthilkumar]
+- 💼 **LinkedIn**: [https://linkedin.com/in/kirthika-kulandaivel-senthilkumar]
 - 📧 **Email**: kxk230002@utdallas.edu  
 
 > *"Data isn’t just numbers; it’s a story waiting to be told."*  
