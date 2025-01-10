@@ -30,9 +30,9 @@ I specialize in transforming raw data into strategic insights that fuel impactfu
 
 ## 🛠️ **Technical Toolkit**
 - **Languages**: Python, R, SQL  
-- **Tools**: Power BI, Tableau, Excel VBA, Jupyter Notebook  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Databases**: MySQL, PostgreSQL, Oracle  
+- **Tools**: Power BI, Tableau, Excel VBA, Jupyter Notebook, Looker, Microsoft Ofice 365
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup
+- **Databases**: MySQL, PostgreSQL, Oracle, SSMS
 
 ---
 
